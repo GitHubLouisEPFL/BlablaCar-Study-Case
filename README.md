@@ -10,6 +10,7 @@ This repository contains a single Jupyter notebook: **`study_case.ipynb`**. The 
    - `pandas`
    - `openrouteservice`
    - `folium`
+   - `ipykernel`
 
 2. **OpenRouteService API Key**  
    This project uses the **OpenRouteService** free API for routing and geospatial data. You will need a personal API key to run the program.

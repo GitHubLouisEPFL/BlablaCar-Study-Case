@@ -1,7 +1,5 @@
 # BlablaCar-Study-Case
 
-# Study Case
-
 This repository contains a single Jupyter notebook: **`study_case.ipynb`**. The notebook is well documented and easy to navigate.
 
 ## Important Information Before Running the Notebook
